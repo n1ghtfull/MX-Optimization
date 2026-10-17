@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="MX-Optimization Logo" width="350"/>
-</p>
 
 # 🚀 MX-Optimization Suite (MX-Optimizate) v1.0
 
